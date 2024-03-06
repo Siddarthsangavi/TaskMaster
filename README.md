@@ -1,3 +1,6 @@
+# [Watch It Live Here](https://color-generator-siddarth.netlify.app/)
+
+
 # TaskMaster
 
 This is a simple To-Do List application built with HTML, CSS, and JavaScript. It allows users to add tasks to a list, mark them as done, and remove them from the list.
